@@ -35,8 +35,8 @@ PRODUCT_MODEL := Xperia 1 IV
 PRODUCT_GMS_CLIENTID_BASE := android-sonymobile
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="XQ-CT72-user 14 64.2.A.2.215 064002A002021500519766968 release-keys"
-    BuildFingerprint=Sony/XQ-CT72/XQ-CT72:14/64.2.A.2.215/064002A002021500519766968:user/release-keys
+    BuildDesc="XQ-CT72-user 14 64.2.A.2.235 064002A002023500519766968 release-keys"
+    BuildFingerprint=Sony/XQ-CT72/XQ-CT72:14/64.2.A.2.235/064002A002023500519766968:user/release-keys
     DeviceName=XQ-CT72 \
     DeviceProduct=XQ-CT72 \
     SystemDevice=XQ-CT72 \
